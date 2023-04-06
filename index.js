@@ -3,7 +3,7 @@ const cors = require("cors");
 
 const app = express();
 
-app.use(cors());
+//app.use(cors());
 
 const metadata = {
   id: "63e0bbaaff8a1c009011515f",
